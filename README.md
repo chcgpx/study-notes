@@ -6,4 +6,4 @@
 
 ## GitHub
 
-* [Push code to Github Error]
+* [Push code to Github Error](https://github.com/chcgpx/study-notes/blob/master/GitHub/push-code-to-Github-Error.md)
