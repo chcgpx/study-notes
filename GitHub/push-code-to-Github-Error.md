@@ -1,4 +1,4 @@
-*Question: Push code to github  error msg*
+## *Question: Push code to github with error msg*
 
 ```
 > git push -u origin master
